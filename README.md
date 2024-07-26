@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/Rajsolanki0907/Rajsolanki0907/blob/main/banner%20LinkedIn.png))
+![logo](https://github.com/Rajsolanki0907/Rajsolanki0907/blob/main/banner%20LinkedIn.png)
 <h1 align="center">Hi 👋, I'm Raj Solanki</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
