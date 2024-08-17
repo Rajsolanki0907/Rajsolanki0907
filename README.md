@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/raj-solanki-0907r](linkedin.com/in/rajsolanki09)
+- 👨‍💻 All of my projects are available at [linkedin.com/in/rajsolanki09](linkedin.com/in/rajsolanki09)
 
 
 <h3 align="left">Connect with me:</h3>
